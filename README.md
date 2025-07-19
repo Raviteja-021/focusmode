@@ -1,9 +1,6 @@
 # FocusMode 🎯
 
 FocusMode is a smart web application that uses your webcam and a machine learning model to provide real-time feedback on your engagement level. It helps you stay focused during study sessions or work by gently monitoring your attention and providing a live engagement score.
-
-*(**Note**: You should replace the link above with a real screenshot of your application\!)*
-
 -----
 
 ## 🚀 Key Features
